@@ -1,3 +1,3 @@
-maga/config/WebAppInitializer.class
-maga/config/WebConfig.class
-maga/controller/DemoController.class
+maga\config\WebConfig.class
+maga\controller\DemoController.class
+maga\config\WellAppInitializer.class
